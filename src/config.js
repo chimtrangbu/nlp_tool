@@ -8,7 +8,8 @@ const posConfig = {
     "IN": "Gi\u1edbi t\u1eeb",
     "C": "Li\u00ean t\u1eeb",
     "CD": "S\u1ed1 t\u1eeb",
-    "UN": "L\u01b0\u1ee3ng t\u1eeb",
+    "Q": "L\u01b0\u1ee3ng t\u1eeb",
+    "UN": "DT \u0111\u01a1n v\u1ecb"
 }
 
 export default posConfig
